@@ -354,7 +354,10 @@ p {
 }
 
 @media (max-width: 467px) {
-  .card-page__text{
-    display: none;
+   .card-page__title {
+    font-size: 12px;
+  }
+  .card-page__text {
+    font-size: 10px;
   }
 }
